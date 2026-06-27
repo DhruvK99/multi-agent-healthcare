@@ -28,3 +28,11 @@ This repository charts the architectural development from foundational single-ag
 1. Clone this repository and configure your `.env` workspace:
    ```bash
    GROQ_API_KEY="your_actual_groq_api_key_here"
+
+Install dependencies:
+
+pip install crewai langchain-groq fpdf rich sqlite3
+
+Run the system interface script:
+
+python main.py
