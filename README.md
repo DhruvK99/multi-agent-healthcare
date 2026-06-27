@@ -29,10 +29,10 @@ This repository charts the architectural development from foundational single-ag
    ```bash
    GROQ_API_KEY="your_actual_groq_api_key_here"
 
-Install dependencies:
+2. Install dependencies:
+   ```bash
+   pip install crewai==0.80.0 langchain-groq==0.2.1 fpdf rich python-dotenv
 
-pip install crewai langchain-groq fpdf rich sqlite3
-
-Run the system interface script:
-
-python main.py
+3. Run the system interface script:
+   ```bash
+   python main.py
