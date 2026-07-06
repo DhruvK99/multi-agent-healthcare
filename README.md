@@ -1,4 +1,4 @@
-# Intelligent Multi-Agent Healthcare Platform 🏥🕵
+# Intelligent Multi-Agent Healthcare Platform 🏥
 
 A collaborative Multi-Agent System (MAS) built using CrewAI and Groq (Llama-3.1). The application orchestrates isolated, role-specific agents to manage healthcare workflows, while seamlessly grounding their logic with an integrated local database and a document serialization engine.
 
